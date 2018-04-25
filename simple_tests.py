@@ -2,7 +2,6 @@ import unittest
 import time
 
 class SimpleTests(unittest.TestCase):
-
     
     def test_should_succeed(self):
         assert 7 == 7
